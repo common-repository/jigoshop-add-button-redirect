@@ -1,0 +1,32 @@
+/* This CSS is setup for Twenty Eleven theme. You will
+probably have to adjust this slightly for your theme
+*/
+
+form.cart {
+float: left !important;
+width:auto !important;
+}
+#jsabbutton{
+float:right;
+background:#F93;
+/* for same color as other button use #1982D1 above*/ 
+}
+
+div.quantity{
+min-width: 0px !important;
+}
+.quantity{
+min-width: 0px !important;
+}
+.button-alt{
+margin-right:4px !important;
+margin-bottom:0px !important;
+margin-left:0px !important;
+margin-top:2px !important;
+}
+.price{
+margin-bottom:0px !important;
+}
+.stock{
+margin-bottom:0px !important;
+}
